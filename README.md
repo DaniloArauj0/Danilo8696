@@ -18,10 +18,6 @@ Desenvolvedor Front-End | HTML | CSS | JAVASCRIPT | SQL | Em busca de oportunida
 </div> <br/>
 ## 📸 Sobre mim
 
-<p align="center">
-  <img src="LINK_DA_SUA_FOTO" width="200px" style="border-radius:50%" />
-</p>
-
 💻 Estou focado em desenvolvimento web  
 📚 Atualmente aprendendo mais sobre Front-End  
 🎯 Buscando minha primeira oportunidade na área  
@@ -29,7 +25,7 @@ Desenvolvedor Front-End | HTML | CSS | JAVASCRIPT | SQL | Em busca de oportunida
 ## 📞 Contato
 
  WhatsApp:  
-https://wa.me/11987237061
+https://wa.me/1198723-7061
 
  LinkedIn:  
 https://linkedin.com/in/seulink
